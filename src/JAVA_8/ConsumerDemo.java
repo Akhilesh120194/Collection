@@ -14,7 +14,7 @@ public class ConsumerDemo {
 
 		Consumer<String> c=s->System.out.println(s);
 
-		c.accept("Hello");
+		c.accept("Hello ");
 	}
 
 }
