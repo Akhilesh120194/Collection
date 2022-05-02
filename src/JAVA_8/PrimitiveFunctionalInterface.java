@@ -7,7 +7,7 @@ import java.util.function.IntToDoubleFunction;
 import java.util.function.ToIntFunction;
 
 /*
- * In normal functional interface due to repeatative autoboxing and autounxing performace gone down so to 
+ * In normal functional interface due to repetitive autoboxing and autounxing performace gone down so to 
  * improve the performance primitive functional interface came in to the picture .
  * 
  * Only 3 types of primitive Predicate functional interface :

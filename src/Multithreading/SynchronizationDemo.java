@@ -19,7 +19,7 @@ package Multithreading;
  *  
  *  While a thread executing synchronized method on a given object the remaining thread are not allowed to execute 	
  *  any synchronized method on the same object but remaining thread are allowed to execute non synchronized method 
- *  simulataneously
+ *  Simultaneously
  *  
  *  
  *  Wherever we are performing update operation (Add/remove/update/delete) i.e where state of object is changing 
